@@ -45,3 +45,5 @@ Usage:
   Start the typing process and switch to the target window.
   Press the Escape key to interrupt typing if necessary (requires pynput).
   Note: This tool simulates real keyboard input. Ensure the correct window is focused before starting.
+
+AI-Assitance Used In the Code
